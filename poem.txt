@@ -2,4 +2,5 @@ The Rainbow
 blue
 red
 yellow
+green
 thesea are the colors of the rainbow.
